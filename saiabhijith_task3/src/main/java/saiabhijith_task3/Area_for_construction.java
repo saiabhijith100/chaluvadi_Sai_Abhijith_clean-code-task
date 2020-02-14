@@ -18,7 +18,7 @@ public static double highstandardmaterial(String Standardmaterial,double area) {
 	return 0;
 
 }
-public static double standard_material_and_fullyautomated_home(String Standardmaterial,double area) {
+public static double standard_material_and_fullyautomated_home(String Standard_material,double area) {
 	return area*2500;
 }
 
